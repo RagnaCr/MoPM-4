@@ -1,0 +1,14 @@
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.exe
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.deps.json
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.runtimeconfig.json
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.runtimeconfig.dev.json
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.dll
+F:\Git\Mops4\bin\Debug\netcoreapp3.1\Mops4.pdb
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.csproj.AssemblyReference.cache
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.AssemblyInfoInputs.cache
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.AssemblyInfo.cs
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.csproj.CoreCompileInputs.cache
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.dll
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.pdb
+F:\Git\Mops4\obj\Debug\netcoreapp3.1\Mops4.genruntimeconfig.cache
